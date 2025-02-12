@@ -1,4 +1,5 @@
-# calculator in Vue.js
+
+  <h1 align="center">Calculator in Vue.js </h1>
 
 ## Project setup
 ```
