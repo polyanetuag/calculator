@@ -26,4 +26,4 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ---
 
-Desenvolvido com ❤️ por Polyane Tuag
+Developed with ❤️ por Polyane Tuag
